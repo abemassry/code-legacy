@@ -1,1 +1,1 @@
-This is the Contributing file
+This is the CONTRIBUTING.md file
